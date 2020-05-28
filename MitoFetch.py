@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# Created: Thu Apr 23 11:09:38 2020
-# Last changed: Time-stamp: <Last changed 2020-05-18 09:45:32 by Thomas Sicheritz-Pontén, thomas>
 
 import string, re
 import os, sys
